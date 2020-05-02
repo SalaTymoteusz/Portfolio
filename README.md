@@ -10,9 +10,8 @@ Currencies is an application that uses the API of the National Bank of Poland to
 - Data Manipulation for Chart
 - Chart Representation using [Charts](https://github.com/danielgindi/Charts/)
 - JSON parsing with Decodable
-- Search using Search Bar
+- Searching using Search Bar
 - How to use Activity Indicator
-
 ![](https://github.com/SalaTymoteusz/Portfolio/blob/master/AppMockUp.png?raw=true)
 
 
