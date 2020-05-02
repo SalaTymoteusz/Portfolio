@@ -9,7 +9,7 @@ Currencies is an application that uses the API of the National Bank of Poland to
 - MVC Pattern
 - Data Manipulation for Chart
 - Chart Representation using [Charts](https://github.com/danielgindi/Charts/)
-- UiTableView | Custom Cell
+- JSON parsing with Decodable
 - Search using Search Bar
 - How to use Activity Indicator
 
