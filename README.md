@@ -13,6 +13,6 @@ Currencies is an application that uses the API of the National Bank of Poland to
 - Searching using Search Bar
 - How to use Activity Indicator
 
-![](https://github.com/SalaTymoteusz/Portfolio/blob/master/AppMockUp.png?raw=true)
+![](https://github.com/SalaTymoteusz/Portfolio/blob/master/Currencies/AppMockUp.png)
 
 
